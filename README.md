@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsilverfox
 - 👀 I’m interested in writing, gaming and coding
-- 🌱 I’m currently learning basic web development 
-- 💞️ I’m looking to collaborate on not yet ready to collaborate on coding, as I don't know enough to help.
+- 🌱 I am a junior web developer with experience in React, Node.js, HTML5, CSS and Javascript
+- 💞️ I would love to collaborate with you.
 - 📫 How to reach me de.silverfox.coding@gmail.com
 
 <!---
